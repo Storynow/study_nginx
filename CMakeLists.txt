@@ -4,6 +4,10 @@ set(CMAKE_VERBOSE_MAKEFILE OFF)
 
 project(nginx)
 
+# ~/.gdbinit
+# set detach-on-fork off
+# set follow-fork-mode child
+
 set(CMAKE_C_COMPILER   "/usr/local/gcc/bin/gcc")
 set(CMAKE_CXX_COMPILER   "/usr/local/gcc/bin/g++")
 
