@@ -1,0 +1,5 @@
+build/
+objs/src/
+cmake-build*/
+.clion.source.upload.marker
+*.o
